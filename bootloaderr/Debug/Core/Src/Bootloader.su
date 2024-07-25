@@ -1,0 +1,14 @@
+../Core/Src/Bootloader.c:30:11:BL_FeatchHostCommand	16	static
+../Core/Src/Bootloader.c:77:6:BL_SendMessage	112	static
+../Core/Src/Bootloader.c:87:13:BL_Get_Version	32	static
+../Core/Src/Bootloader.c:112:13:BL_Get_Help	56	static
+../Core/Src/Bootloader.c:142:13:BL_Get_Chip_Idendification_nNumber	32	static
+../Core/Src/Bootloader.c:164:13:BL_Flash_Erase	24	static
+../Core/Src/Bootloader.c:188:13:BL_Write_Data	32	static
+../Core/Src/Bootloader.c:229:16:BL_Address_Varification	24	static
+../Core/Src/Bootloader.c:245:17:BL_CRC_verfiy	40	static
+../Core/Src/Bootloader.c:266:13:BL_Send_ACK	24	static
+../Core/Src/Bootloader.c:273:13:BL_Send_NACK	16	static
+../Core/Src/Bootloader.c:280:16:Perform_Flash_Erase	40	static
+../Core/Src/Bootloader.c:330:16:FlashMemory_Paylaod_Write	48	static
+../Core/Src/Bootloader.c:361:6:Jump_Application	24	static,ignoring_inline_asm
